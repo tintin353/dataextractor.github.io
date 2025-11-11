@@ -222,7 +222,7 @@
         saveAs(blob, "ph_sorter_output.zip");
 
         log(
-          `Fertig.\nUmbenannt: ${renamed} Dateien\nIgnoriert/entfernt (Sample-ID '---' oder Status 'Fehler'): ${deleted}\n` +
+          `Fertig.\nUmbenannt: ${renamed} Dateien\nIgnoriert/entfernt: ${deleted}\n` +
           `ZIP mit umbenannten CSVs + pH_summary.xlsx wurde heruntergeladen.`
         );
       } catch (err) {

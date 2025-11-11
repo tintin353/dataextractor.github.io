@@ -6,11 +6,11 @@ German Version
 
 Dieses Web-Tool automatisiert die Nachbearbeitung von pH-Messungen aus dem **Mettler Toledo SevenDirect pH-Meter**.  
 Das Gerät exportiert jede Messung als **einzelne CSV-Datei**, was die Auswertung und Archivierung schnell unübersichtlich macht.  
-Der **pH Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Excel-Tabelle und benennt die Dateien konsistent um.
+Der **pH-Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Excel-Tabelle und benennt die Dateien konsistent um.
 
 ---
 
-## 🚀 Funktionsweise
+## Funktionsweise
 
 1. Jede Messung des SevenDirect wird als CSV gespeichert, z. B.:
 
@@ -32,7 +32,7 @@ Der **pH Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Exc
 
 ---
 
-## 💡 Verwendung
+## Verwendung
 
 1. Seite öffnen: https://tintin353.github.io/dataextractor.github.io/
 2. CSV-Dateien auswählen.
@@ -41,17 +41,7 @@ Der **pH Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Exc
 
 ---
 
-## 🧰 Technologie-Stack
-
-- HTML + CSS + JavaScript
-- Bibliotheken:
-  - JSZip
-  - FileSaver.js
-  - SheetJS (xlsx)
-
----
-
-## 🧪 Beispielausgabe
+## Beispielausgabe
 
 ph_sorter_output.zip  
 ├── 3.csv  
@@ -67,37 +57,35 @@ ph_sorter_output.zip
 
 ---
 
-## 🔒 Datenschutz & Kompatibilität
+## Datenschutz & Kompatibilität
 
 - Lokale Verarbeitung, keine Internetübertragung.
 - Läuft auf Windows, macOS, Linux mit Chrome, Edge, Firefox, Safari.
 
 ---
 
-## 👨‍🔬 Hintergrund
+## Hintergrund
 
 Das Mettler Toledo SevenDirect pH-Meter exportiert jede Messung als separate CSV-Datei.  
 Dieses Tool vereinfacht die Zusammenfassung und Organisation der Daten im Labor.
 
 ---
 
-## 👨‍💻 Autor
-
 **Laurin Tempel**  
-Institut für Umweltwissenschaften (IFZ), JLU Gießen  
+Institut für Bodenkunde und Bodenerhaltung, JLU Gießen  
 2025
 
  
 English Version
-# 🧪 pH Sorter – Mettler Toledo SevenDirect CSV Processor
+# 🧪 pH-Sorter – Mettler Toledo SevenDirect CSV Processor
 
 This web tool automates the post-processing of pH measurements from the **Mettler Toledo SevenDirect pH Meter**.  
 The device exports each measurement as an **individual CSV file**, which can make data handling and analysis cumbersome.  
-The **pH Sorter** automatically combines these files into a clean Excel summary and renames them consistently.
+The **pH-Sorter** automatically combines these files into a clean Excel summary and renames them consistently.
 
 ---
 
-## 🚀 How it Works
+## How it Works
 
 1. Each measurement from the SevenDirect is saved as a CSV file, e.g.:
 
@@ -119,7 +107,7 @@ The **pH Sorter** automatically combines these files into a clean Excel summary 
 
 ---
 
-## 💡 Usage
+## Usage
 
 1. Open: https://tintin353.github.io/dataextractor.github.io/
 2. Select CSV files.
@@ -128,17 +116,7 @@ The **pH Sorter** automatically combines these files into a clean Excel summary 
 
 ---
 
-## 🧰 Technology Stack
-
-- HTML + CSS + JavaScript
-- Libraries:
-  - JSZip
-  - FileSaver.js
-  - SheetJS (xlsx)
-
----
-
-## 🧪 Example Output
+## Example Output
 
 ph_sorter_output.zip  
 ├── 3.csv  
@@ -154,7 +132,7 @@ ph_sorter_output.zip
 
 ---
 
-## 🔒 Privacy & Compatibility
+## Privacy & Compatibility
 
 - All processing is done locally in the browser.
 - No data is uploaded or transmitted.
@@ -162,17 +140,15 @@ ph_sorter_output.zip
 
 ---
 
-## 👨‍🔬 Background
+## Background
 
 The **Mettler Toledo SevenDirect pH Meter** exports each measurement as a separate CSV file.  
 This tool was created to simplify data organization and analysis in laboratory workflows.
 
 ---
 
-## 👨‍💻 Author
-
 **Laurin Tempel**  
-Institute for Environmental Sciences (IFZ), JLU Gießen  
+Institute for Soil Science and Soil Conservation, JLU Gießen  
 2025
 
 

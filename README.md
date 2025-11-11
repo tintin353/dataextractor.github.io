@@ -10,6 +10,15 @@ Der **pH-Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Exc
 
 ---
 
+## Verwendung
+
+1. Seite öffnen: https://tintin353.github.io/pH-Sorter.github.io/
+2. CSV-Dateien auswählen.
+3. „Auswerten“ klicken.
+4. Ergebnis: `ph_sorter_output.zip` wird heruntergeladen.
+
+---
+
 ## Funktionsweise
 
 1. Jede Messung des SevenDirect wird als CSV gespeichert, z. B.:
@@ -29,15 +38,6 @@ Der **pH-Sorter** kombiniert diese Einzeldateien automatisch in eine saubere Exc
 5. Anschließend lädt der Browser automatisch ein ZIP-Archiv herunter mit:
    - allen umbenannten CSVs
    - der Excel-Zusammenfassung `pH_summary.xlsx`
-
----
-
-## Verwendung
-
-1. Seite öffnen: https://tintin353.github.io/pH-Sorter.github.io/
-2. CSV-Dateien auswählen.
-3. „Auswerten“ klicken.
-4. Ergebnis: `ph_sorter_output.zip` wird heruntergeladen.
 
 ---
 
@@ -85,6 +85,15 @@ The **pH-Sorter** automatically combines these files into a clean Excel summary 
 
 ---
 
+## Usage
+
+1. Open: https://tintin353.github.io/pH-Sorter.github.io/
+2. Select CSV files.
+3. Click **"Auswerten" (Evaluate)**.
+4. The browser downloads `ph_sorter_output.zip`.
+
+---
+
 ## How it Works
 
 1. Each measurement from the SevenDirect is saved as a CSV file, e.g.:
@@ -104,15 +113,6 @@ The **pH-Sorter** automatically combines these files into a clean Excel summary 
 5. The browser downloads a ZIP archive containing:
    - all renamed CSVs
    - the summary file `pH_summary.xlsx`
-
----
-
-## Usage
-
-1. Open: https://tintin353.github.io/pH-Sorter.github.io/
-2. Select CSV files.
-3. Click **"Auswerten" (Evaluate)**.
-4. The browser downloads `ph_sorter_output.zip`.
 
 ---
 
